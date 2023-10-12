@@ -24,4 +24,4 @@ Agroveloz iniciativa de colombia cuenta con el front end de los siguientes reque
 
 ## Getting Started
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+flutter clean
