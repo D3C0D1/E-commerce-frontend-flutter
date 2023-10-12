@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBuHsKUgtoH6F8Gip3I9nmufiyRNs-_-us</string>
+	<key>GCM_SENDER_ID</key>
+	<string>622999220763</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.agrovel.agrovelo</string>
+	<key>PROJECT_ID</key>
+	<string>ecommerce-dbbfc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ecommerce-dbbfc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:622999220763:ios:c6ab1bfcc7de73e080bebe</string>
+</dict>
+</plist>

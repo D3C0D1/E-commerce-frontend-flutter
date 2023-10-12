@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "622999220763",
+    "project_id": "ecommerce-dbbfc",
+    "storage_bucket": "ecommerce-dbbfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622999220763:android:15585f978934ecc480bebe",
+        "android_client_info": {
+          "package_name": "com.agrovel.agrovelo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBpDrylpfHFah3sAZlzkDwOFZ72Iu-Rsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622999220763:android:6f66c0456506f00580bebe",
+        "android_client_info": {
+          "package_name": "com.agrovelo.aliado"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBpDrylpfHFah3sAZlzkDwOFZ72Iu-Rsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
